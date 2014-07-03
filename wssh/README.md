@@ -76,9 +76,13 @@ Connect through web interface:
 URL: http://ip address of your remote machine:5000
 
 ```
+web connect interface:
+
 ![alt text](https://raw.githubusercontent.com/Sherry22/html5-vdi/master/wssh/screenshot/connect%20to%20remote%20SSH%20server.png)
 
-![alt text](https://github.com/Sherry22/html5-vdi/blob/master/wssh/screenshot/console.png)
+console:
+
+![alt text](https://raw.githubusercontent.com/Sherry22/html5-vdi/master/wssh/screenshot/console.png)
 
 
 

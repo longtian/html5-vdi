@@ -73,7 +73,7 @@ wsshd
 Connect through web interface:
 
 ```
-URL: http://*ip address of your remote machine*:5000
+URL: http://ip address of your remote machine:5000
 
 ```
 
